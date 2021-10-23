@@ -1,0 +1,782 @@
+@media (max-width:1400px){
+    #bestPrice{
+    
+        img{
+            height: 50vh;
+        }
+    }
+
+    #specials{
+    
+        img{
+            height: 50vh;
+        }
+    }
+
+    #help{
+    
+        img{
+            height: 60vh;
+        }
+    }
+}
+
+@media (max-width:1280px){
+    #specials{
+    
+        img{
+            height: 45vh;
+        }
+
+        #content{
+            margin-top: 1%;
+        }
+    }
+}
+
+@media (max-width:1210px){
+    #offers{
+        padding: 0px;
+    }
+
+    #services{
+        padding: 0px 20px;
+    }
+
+    #sellers{
+        padding: 20px;
+    }
+
+    #categories{
+        padding: 0px 20px;
+
+        .container-fluid{
+            padding-top: 40px;
+        }
+    }
+
+    #bestPrice{
+        padding: 20px;
+
+        img{
+            height: 40vh;
+        }
+    }
+
+    #onSale{
+        padding: 20px;
+    }
+
+    #specials{
+        padding: 0px 20px;
+
+        img{
+            height: 40vh;
+        }
+    }
+
+    #newsletter{
+        padding: 20px;
+    }
+
+    #help{
+    
+        img{
+            height: 50vh;
+        }
+    }
+}
+
+@media (max-width:1024px){
+    #navbar{
+
+        #one{
+            
+            .nav-link{
+                margin-inline: 5px;
+                font-size: 13px;
+            }
+
+            #about{
+                display: none;
+            }
+
+            #contact{
+                display: none;
+            }
+
+            #help-center{
+                display: none;
+            }
+        }
+    
+        #two{
+            padding: 15px;
+    
+            .navbar-brand{
+                font-size: 20px;
+            }
+    
+            .input-group{
+                margin-left: 30px;
+            }
+    
+            .form-control{
+                padding-right: 80px;
+            }
+    
+            #right{
+
+                #login{
+                    display: none;
+                }
+
+                #fav{
+                    display: none;
+                }
+
+                #bars{
+                    display: block;
+                }
+
+                i{
+                    font-size: 20px;
+                }
+            }
+        }
+    
+        #three{
+            padding: 0px;
+            display: none;
+        }
+
+    }
+
+    #showcase{
+    
+        .carousel-caption{
+            margin-bottom: 5%;
+            margin-right: 10%;
+    
+            .badge{
+                font-size: 15px;
+            }
+    
+            h1{
+                font-size: 40px;
+                margin-top: 5px;
+            }
+    
+            .btn{
+                padding: 5px 25px;
+            }
+        }
+    }
+
+    #offers{
+    padding: 0px;
+
+        .card{
+            margin-inline: 5px;
+
+            .card-body{
+                margin-top: 5%;
+                margin-left: 3%;
+
+                h1{
+                    font-size: 35px;
+                }
+            }
+
+            .btn{
+                padding: 5px 40px;
+            }
+        }
+    }
+
+    #services{
+        padding: 0px 0px;
+        margin-bottom: 20px;
+
+        .container-fluid{
+            margin-top: 10px;
+
+            #content{
+                margin-top: 20px;
+                padding: 20px;
+        
+                h5{
+                    width: 80%;
+                }
+            }
+        }
+    }
+
+    #sellers{
+    padding: 0px;
+    margin-bottom: 20px;
+
+        .container-fluid{
+            padding-top: 40px;
+            padding-bottom: 40px;
+
+            h2{
+                padding: 10px;
+            }
+
+            .card-group{
+                padding: 0px;
+                display: grid;
+                grid-template-columns: repeat(3, 1fr);
+                grid-gap: 0.5em;
+            }
+        }
+    }
+    
+    #categories{
+        padding: 0px 0px;
+    
+        .container-fluid{
+            padding-top: 40px;
+            padding-bottom: 40px;
+    
+            #category{
+                grid-template-columns: repeat(2, 1fr);
+            }
+    
+            img{
+                width: 35%;
+            }
+        }
+    }
+
+    #bestPrice{
+        padding: 0px;
+        margin-top: 20px;
+    
+        img{
+            height: 40vh;
+            padding: 20px;
+        }
+    
+        #content{
+            margin-right: 9%;
+            padding: 0px;
+
+            h1{
+                font-size: 30px;
+            }
+
+            h2{
+                font-size: 25px;
+            }
+    
+            .btn{
+                padding: 5px 25px;
+            }
+        }
+    }
+
+    #onSale{
+        padding: 0px;
+        margin-top: 20px;
+    
+        .container-fluid{
+            padding-top: 20px;
+            padding-bottom: 40px;
+    
+            .card-group{
+                display: grid;
+                grid-template-columns: repeat(3, 1fr);
+                grid-gap: 0.5em;
+            }
+
+        
+            .btn{
+                padding: 5px 50px;
+            }
+        }
+    }
+
+    #specials{
+        padding: 0px 0px;
+        margin-top: 20px;
+    
+        img{
+            height: 40vh;
+            padding: 20px;
+        }
+    
+        #content{
+            margin-top: 3%;
+
+            h1{
+                font-size: 25px;
+            }
+
+            h2{
+                font-size: 20px;
+            }
+    
+            .badge{
+                margin-bottom: 3px;
+                font-size: 13px;
+            }
+        }
+    }
+    
+    #newsletter{
+        margin-top: 30px;
+        padding-top: 0px;
+        padding: 0px;
+    
+        .container-fluid{
+            padding-bottom: 40px;
+            padding-top: 40px;
+        }
+    }
+
+    #help{
+        margin-top: 40px;
+    
+        img{
+            height: 40vh;
+            padding: 20px;
+        }
+    
+        #content{
+            margin-left: 8%;
+            margin-top: 4%;
+            
+            h1{
+                font-size: 25px;
+            }
+    
+            .btn{
+                padding: 5px 25px;
+            }
+        }
+    }
+
+    #additionals{
+
+        #links{
+            margin-top: 50px;
+            padding: 0px;
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+        }
+    }
+}
+
+@media (max-width:845px){
+    #showcase{
+    
+        .carousel-caption{
+            margin-bottom: 0%;
+            margin-right: 5%;
+        }
+    }
+
+    #offers{
+    
+        .card{
+    
+            .card-body{
+                margin-top: 0%;
+                margin-left: 3%;
+    
+                h1{
+                    font-size: 30px;
+                }
+            }
+    
+            .btn{
+                padding: 5px 30px;
+            }
+        }
+    }
+
+    #sellers{
+    
+            .container-fluid{
+                padding-top: 40px;
+                padding-bottom: 40px;
+    
+                h2{
+                    padding: 10px;
+                }
+
+                .card{
+                    padding: 40px;
+                }
+    
+                .card-group{
+                    padding: 40px;
+                    display: grid;
+                    grid-template-columns: repeat(2, 1fr);
+                    grid-gap: 0.5em;
+                }
+            }
+        }
+
+        #bestPrice{
+        
+            img{
+                padding: 25px;
+            }
+        
+            #content{
+                padding-bottom: 20px;
+    
+                h1{
+                    font-size: 25px;
+                }
+    
+                h2{
+                    font-size: 20px;
+                }
+            }
+        }
+
+        #onSale{
+    
+            .container-fluid{
+                padding-top: 40px;
+                padding-bottom: 40px;
+    
+                h2{
+                    padding: 10px;
+                }
+
+                .card{
+                    padding: 40px;
+                }
+    
+                .card-group{
+                    padding: 40px;
+                    display: grid;
+                    grid-template-columns: repeat(2, 1fr);
+                    grid-gap: 0.5em;
+                }
+            }
+        }
+
+        #specials{
+        
+            img{
+                height: 35vh;
+                padding: 25px;
+            }
+        
+            #content{
+                margin-top: 1%;
+        
+                .badge{
+                    margin-bottom: 2px;
+                    font-size: 12px;
+                }
+            }
+        }
+
+        #additionals{
+
+            #links{
+                margin-top: 50px;
+                padding: 0px;
+                display: grid;
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+}
+
+@media (max-width:766px){
+    #offers{
+
+        .card-group{
+            display: grid;
+            grid-template-columns: repeat(1, 1fr);
+            grid-gap: 0.5em;
+            height: 50%;
+            padding: 0px 100px;
+        }
+    
+        .card{
+
+            img{
+                height: 50vh;
+                margin: auto;
+            }
+    
+            .card-body{
+                margin-top: 0%;
+                margin-left: 3%;
+    
+                h1{
+                    font-size: 30px;
+                }
+            }
+    
+            .btn{
+                padding: 5px 30px;
+            }
+        }
+    }
+
+    #services{
+        
+        h5{
+            font-size: 15px;
+        }
+    }
+
+    #sellers{
+    
+        .container-fluid{
+
+            h2{
+                padding: 0px;
+            }
+
+            .card{
+                padding: 0px;
+            }
+
+            .card-group{
+                padding: 10px 90px;
+            }
+        }
+    }
+
+    #bestPrice{
+
+        #best{
+            display: none;
+        }
+        
+        #img{
+            display: none;
+        }
+    
+        #content{
+            display: none;
+        }
+
+        #card{
+            display: block;
+        
+            img{
+                padding: 0px;
+                clip-path: polygon(0 0, 100% 0, 100% 20%, 100% 100%, 80% 100%, 20% 100%, 0 100%, 0% 20%);
+            }
+        
+            #card-content{
+                padding-bottom: 20px;
+                margin-left: 50%;
+                color: #fff;
+    
+                h1{
+                    font-size: 25px;
+                }
+    
+                h2{
+                    font-size: 20px;
+                }
+
+                .btn{
+                    padding: 5px 35px;
+                    border-radius: 30px;
+                }
+            }
+        }
+    }
+
+
+    #onSale{
+    
+        .container-fluid{
+
+            h2{
+                padding: 0px;
+            }
+
+            .card{
+                padding: 0px;
+            }
+
+            .card-group{
+                padding: 10px 90px;
+            }
+        }
+    }
+
+    #card{
+        display: block;
+    
+        img{
+            padding: 0px;
+            clip-path: polygon(0 0, 100% 0, 100% 20%, 100% 100%, 80% 100%, 20% 100%, 0 100%, 0% 20%);
+            height: 50vh;
+        }
+    
+        #card-content{
+            padding-bottom: 20px;
+            margin-left: 10%;
+            margin-top: 5%;
+            color: #fff;
+
+            h1{
+                font-size: 25px;
+            }
+
+            h2{
+                font-size: 20px;
+            }
+
+            .btn{
+                padding: 5px 35px;
+                border-radius: 30px;
+            }
+
+            .badge{
+                background-color: #ff0000;
+            }
+        }
+    }
+
+    #specials{
+        display: none;
+        
+        img{
+            display: none;
+        }
+    
+        #content{
+            display: none;
+        }
+    }
+
+    #help{
+        display: none;
+    }
+
+    #help-card{
+        display: block;
+        margin-top: 30px;
+
+        img{
+            height: 50vh;
+        }
+    }
+
+    #additionals{
+
+        #links{
+            grid-template-columns: repeat(1, 1fr);
+            grid-gap: 1em;
+        }
+    }
+}
+
+@media (max-width:700px){
+    #navbar{
+
+        #two{
+            padding: 15px;
+    
+            .navbar-brand{
+                font-size: 20px;
+            }
+    
+            .input-group{
+                margin-left: 20px;
+            }
+    
+            .form-control{
+                padding-right: 0px;
+            }
+        }
+    }
+
+    #showcase{
+
+        img{
+            height: 40vh;
+        }
+    
+        .carousel-caption{
+            padding: 0px;
+
+            h1{
+                font-size: 25px;
+            }
+        }
+    }
+
+    #offers{
+
+        .card-group{
+            padding: 0px 0px;
+        }
+    }
+
+    #services{
+        
+        h5{
+            font-size: 13px;
+        }
+    }
+
+    #sellers{
+    
+        .container-fluid{
+
+            .card-group{
+                padding: 10px 0px;
+                display: grid;
+                grid-template-columns: repeat(1, 2fr);
+            }
+        }
+    }
+
+    #bestPrice{
+        padding: 0px;
+    }
+
+
+    #onSale{
+    
+        .container-fluid{
+
+            .card-group{
+                padding: 10px 0px;
+                display: grid;
+                grid-template-columns: repeat(1, 2fr);
+            }
+        }
+    }
+
+    #help{
+        padding: 0px;
+    }
+
+    #newsletter{
+        padding: 0px;
+    }
+}
+
+@media (max-width:550px){
+    #navbar{
+
+        #two{
+
+            #cart{
+                display: none;
+            }
+        }
+
+        #menuCart{
+            display: none;
+        }
+    }
+}
