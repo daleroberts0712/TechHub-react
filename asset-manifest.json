@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/TechHub-react/static/css/main.6fe32bf3.chunk.css",
+    "main.js": "/TechHub-react/static/js/main.9e6c3d56.chunk.js",
+    "main.js.map": "/TechHub-react/static/js/main.9e6c3d56.chunk.js.map",
+    "runtime-main.js": "/TechHub-react/static/js/runtime-main.72dbf875.js",
+    "runtime-main.js.map": "/TechHub-react/static/js/runtime-main.72dbf875.js.map",
+    "static/css/2.c1256375.chunk.css": "/TechHub-react/static/css/2.c1256375.chunk.css",
+    "static/js/2.77f45c5a.chunk.js": "/TechHub-react/static/js/2.77f45c5a.chunk.js",
+    "static/js/2.77f45c5a.chunk.js.map": "/TechHub-react/static/js/2.77f45c5a.chunk.js.map",
+    "index.html": "/TechHub-react/index.html",
+    "static/css/2.c1256375.chunk.css.map": "/TechHub-react/static/css/2.c1256375.chunk.css.map",
+    "static/css/main.6fe32bf3.chunk.css.map": "/TechHub-react/static/css/main.6fe32bf3.chunk.css.map",
+    "static/js/2.77f45c5a.chunk.js.LICENSE.txt": "/TechHub-react/static/js/2.77f45c5a.chunk.js.LICENSE.txt",
+    "static/media/Best-Price.0553cb7c.jpg": "/TechHub-react/static/media/Best-Price.0553cb7c.jpg",
+    "static/media/Camera-Drones.ba5e38e0.jpg": "/TechHub-react/static/media/Camera-Drones.ba5e38e0.jpg",
+    "static/media/Help-Center.543d3494.jpg": "/TechHub-react/static/media/Help-Center.543d3494.jpg",
+    "static/media/Holiday-Deals.88e69417.jpg": "/TechHub-react/static/media/Holiday-Deals.88e69417.jpg",
+    "static/media/Slide1.bd67b854.jpg": "/TechHub-react/static/media/Slide1.bd67b854.jpg",
+    "static/media/Slide2.77f6a3c9.jpg": "/TechHub-react/static/media/Slide2.77f6a3c9.jpg",
+    "static/media/Slide3.d9cac874.jpg": "/TechHub-react/static/media/Slide3.d9cac874.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72dbf875.js",
+    "static/css/2.c1256375.chunk.css",
+    "static/js/2.77f45c5a.chunk.js",
+    "static/css/main.6fe32bf3.chunk.css",
+    "static/js/main.9e6c3d56.chunk.js"
+  ]
+}
